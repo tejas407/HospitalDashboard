@@ -1,0 +1,19 @@
+speciality_id,speciality,image_URL
+S1,Cardiology  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/cardiology.png
+S2,Neurology  ,https://raw.githubusercontent.com/tejas407/Images/d70bebefca8b44de1e690afefc1040b35d15e058/Doctor%20Speciality%20Icons/neurology.png
+S3,Pediatrics  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/pediatrics.png
+S4,Oncology  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/oncology.png
+S5,Orthopedics  ,https://raw.githubusercontent.com/tejas407/Images/d70bebefca8b44de1e690afefc1040b35d15e058/Doctor%20Speciality%20Icons/orthopedics.png
+S6,Dermatology  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/dermatology.png
+S7,Radiology  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/radiology.png
+S8,General Practice  ,https://raw.githubusercontent.com/tejas407/Images/8a1531530a440ca6b61589354118469884f9e34a/Doctor%20Speciality%20Icons/general%20pactice.png
+S9,Gastroenterology  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/stomach.png
+S10,Endocrinology  ,https://raw.githubusercontent.com/tejas407/Images/d70bebefca8b44de1e690afefc1040b35d15e058/Doctor%20Speciality%20Icons/endocrinology.png
+S11,Pulmonology  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/pulmonology.png
+S12,Psychiatry  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/psychiatry.png
+S13,Urology  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/urology.png
+S14,Ophthalmology  ,https://raw.githubusercontent.com/tejas407/Images/d70bebefca8b44de1e690afefc1040b35d15e058/Doctor%20Speciality%20Icons/ophthalmology.png
+S15,Nephrology  ,https://raw.githubusercontent.com/tejas407/Images/d70bebefca8b44de1e690afefc1040b35d15e058/Doctor%20Speciality%20Icons/nephrology.png
+S16,Hematology  ,https://raw.githubusercontent.com/tejas407/Images/d70bebefca8b44de1e690afefc1040b35d15e058/Doctor%20Speciality%20Icons/hematology.png
+S17,Rheumatology  ,https://raw.githubusercontent.com/tejas407/Images/d70bebefca8b44de1e690afefc1040b35d15e058/Doctor%20Speciality%20Icons/rheumatology.png
+S18,Infectious Disease  ,https://raw.githubusercontent.com/tejas407/Images/113f9665562213171d7ee16164d1def6dcedf53d/Doctor%20Speciality%20Icons/infectious%20disease.png
